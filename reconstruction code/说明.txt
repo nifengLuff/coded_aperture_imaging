@@ -1,0 +1,10 @@
+0304：点源模拟
+0305：侧面朝向探测器的圆柱体
+0306：圆面朝向探测器的圆柱体
+0308：圆环，内径为6，外径为8
+0308_2：半径为3的圆柱，圆面朝向探测器，码板厚度为1
+0308_3：半径为3的圆柱，圆面朝向探测器，码板厚度为1，像素128*128
+0313：半径为3的圆柱，圆面朝向探测器，码板厚度为3
+depth_correction_spectrum_calibrated0128为1月28号做的实验
+depthscreenspectrum_calibrated0314为3月14日做的实验
+peak_er_depth_correction_energy_calibrated_spectrum为峰位和分辨率
